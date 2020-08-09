@@ -104,23 +104,6 @@ Table 2: Summarized machines needed based on Capacity planning of sub-products
 | 6 | 16 | 20 | -4 |
 | 7 | 7 | 5 | 2 |
 
-The machines which were being underutilized/remained idle, were sold based on comparison of undertime cost and the resale cost as seen in Table 3. The undertime cost computed was $ 22266.67 which is higher than the resale cost.
-
-Table 3: Summarized costs for production of sub-products
-
-| **Production plan cost** |
-| --- |
-| **Total Regular Cost ($)** | **Total machines bought** | **Total Machine buying cost ($)** | **Total machines sold** | **Total Machine resale cost ($)** | **Sub-product cost ($)** |
-| 266,063.00 | 25 | 112,779.45 | 5 | 11,250.00 | 367,592.45 |
-
-Finally, the total cost for production accounts for all costs that have been discussed in previous tables to give a final cost as seen in Table 4.
-
-Table 4: Summarized production cost for all Products and Sub-products
-
-| **Total Cost for production** |
-| --- |
-| **Product costs ($)** | **Sub-product costs ($)** | **Total cost ($)** |
-| 1,047,061.02 | 367,592.45 | 41,414,653.47 | 
 
 The scheduling of production was accomplished using the ProModel software. The First in first out (FIFO) scheduling was used to schedule the production plan. The utilization percentage obtained using FIFO was the highest and hence, this proved to be an efficient model.
 
