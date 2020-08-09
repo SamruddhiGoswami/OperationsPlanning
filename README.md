@@ -97,7 +97,6 @@ Table 2: Summarized machines needed based on Capacity planning of sub-products
 | **Work Center** | **Average machines needed per work center** | **Machines per work center** | **Additional machines needed per work center** |
 | --- | --- | --- | --- |
 | 1 | 17 | 10 | 7 |
-| --- | --- | --- | --- |
 | 2 | 22 | 20 | 2 |
 | 3 | 17 | 10 | 7 |
 | 4 | 14 | 15 | -1 |
@@ -121,8 +120,6 @@ Table 4: Summarized production cost for all Products and Sub-products
 | **Total Cost for production** |
 | --- |
 | **Product costs ($)** | **Sub-product costs ($)** | **Total cost ($)** |
- |
-| --- | --- | --- | --- |
 | 1,047,061.02 | 367,592.45 | 41,414,653.47 | 
 
 The scheduling of production was accomplished using the ProModel software. The First in first out (FIFO) scheduling was used to schedule the production plan. The utilization percentage obtained using FIFO was the highest and hence, this proved to be an efficient model.
